@@ -12,3 +12,4 @@ class Persona:
         self.nombre = nombre
 
 Freddie= Persona("Freddie")
+
